@@ -8,6 +8,7 @@
 <div>  
   <ul>
     <li> ⚡22 years </li>
+    <li> 🚀 The programming is in me. </li>
     <li> 💻 Computer Science - UFFS</li>
     <li> 📚 I'm currently learning HTML, CSS, JavaScript, ReactJS, React Native, NodeJS</li>
   </ul>
