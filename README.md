@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Guilherme Cardozo!
-<img align="left" alt="Gui-pic" height="180" style="border-radius:50px;" src="https://i.ibb.co/ggWx6gm/Guilherme-Cardozo-da-Silva.png">
 <div align="center">
   <a href="https://github.com/guicardozodasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicardozodasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
