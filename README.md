@@ -10,7 +10,6 @@
     <li> ⚡22 years </li>
     <li> 🚀 The programming is in me. </li>
     <li> 💻 Computer Science - UFFS</li>
-    <li> 📚 I'm currently learning HTML, CSS, JavaScript, ReactJS, NodeJS</li>
   </ul>
 </div>
 <div style="display: inline_block"><br>
